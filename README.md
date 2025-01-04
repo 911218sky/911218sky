@@ -4,8 +4,5 @@ Welcome to my GitHub profile! I'm passionate about coding and constantly learnin
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=911218sky&show_icons=true&include_all_commits=true&text_bold=true&rank_icon=github)
 
-## 🌍 Top Languages
+## 🌍 Use Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=911218sky&layout=compact)
-
-## 💬 Let's Chat!
-I love collaborating on interesting projects. Don't hesitate to drop me a message or open an issue on any of my repositories!
