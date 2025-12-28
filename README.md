@@ -1,8 +1,8 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-blond-pi-38.vercel.app/api?username=911218sky&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&v=1" height="160"/>
-  <img src="https://github-readme-stats-blond-pi-38.vercel.app/api/top-langs/?username=911218sky&layout=compact&hide_border=true&v=1" height="160"/>
+  <img src="https://github-readme-stats-blond-pi-38.vercel.app/api?username=911218sky&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&v=2" height="160"/>
+  <img src="https://github-readme-stats-blond-pi-38.vercel.app/api/top-langs/?username=911218sky&layout=compact&hide_border=true&v=2" height="160"/>
 </p>
 
 ---
