@@ -12,7 +12,7 @@
 ---
 
 <div align="center">
-  <img width="500" src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img width="500" src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/contribution-snake/snake.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -40,14 +40,14 @@
 <h2 align="center">📊 GitHub Statistics & Commit History</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/profile/stats.svg" height="150" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/profile/top-langs.svg" height="150" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/github-stats/stats.svg" height="150" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/github-stats/top-langs.svg" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/profile-summary-card-output/default/1-repos-per-language.svg" height="150" alt="Repos Per Language" />
-  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/profile-summary-card-output/default/2-most-commit-language.svg" height="150" alt="Most Commits Language" />
-  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/profile-summary-card-output/default/4-productive-time.svg" height="150" alt="Productive Time" />
+  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/summary-cards/1-repos-per-language.svg" height="150" alt="Repos Per Language" />
+  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/summary-cards/2-most-commit-language.svg" height="150" alt="Most Commits Language" />
+  <img src="https://raw.githubusercontent.com/911218sky/911218sky/profile-assets/summary-cards/4-productive-time.svg" height="150" alt="Productive Time" />
 </p>
 
 ---
