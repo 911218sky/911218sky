@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Chiu Chun-Hsien's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 17, Total Commits  : 813, Total PRs: 13, Total Issues: 14, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 17, Total Commits  : 828, Total PRs: 13, Total Issues: 14, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 190.09285691155418;
+        stroke-dashoffset: 189.84624606494037;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >813</text>
+      >828</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
