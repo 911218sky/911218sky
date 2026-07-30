@@ -24,7 +24,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&rank_icon=github&hide_border=true
           path: github-stats/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
       
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
@@ -32,7 +32,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&hide_border=true
           path: github-stats/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
       
       # Generate profile summary cards
       - name: Generate profile summary cards
